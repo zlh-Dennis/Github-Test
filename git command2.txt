@@ -1,0 +1,37 @@
+git init    初始化仓库
+git clone   克隆远程仓库
+----------------------------------------
+
+git status  查看git版本管理的状态
+git add     将更改从工作区提交到缓存区
+git commit  将缓存区内容提交到版本库
+git log     查看版本信息
+
+.gitignore  忽略匹配规则的文件  rename filename newfilename
+
+
+------------------------------------------
+git config
+git config user.name <value>   配置用户名
+git config user.email <value>  配置用户邮箱
+-----------------------------------------
+git remote -v   查看远程信息详情
+
+git push     将本地更改推送到远程端点
+git pull     将远程端点内容拉取到本地
+
+项目赋权
+  1，项目Settings -> Collaborators -> 邀请团队成员
+
+  2，团队成员 -> 邮箱收到邮件 -> 点击连接 -> 选择接收邀请
+---------------------------------------------------------------
+
+
+git branch      查看分支列表
+git branch <branch name>  添加分支
+git checkout <branch name>  将分支检出到工作区
+
+
+
+
+
